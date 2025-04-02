@@ -13,6 +13,7 @@ An interactive dashboard project exploring microbial species found in human nave
 - [Dataset Details](#dataset-details)
 - [Dashboard Functionality](#dashboard-functionality)
 - [Dashboard Preview](#dashboard-preview)
+- [Deployment](#deployment)
 - [Future Enhancements](#future-enhancements)
 - [About](#about)
 - [Resources](#resources)
@@ -44,12 +45,11 @@ An interactive dashboard project exploring microbial species found in human nave
 
 &nbsp;&nbsp;&nbsp;&nbsp;📁 belly-button-challenge  
 &nbsp;&nbsp;&nbsp;&nbsp;├── index.html  
+&nbsp;&nbsp;&nbsp;&nbsp;├── app.js  
 &nbsp;&nbsp;&nbsp;&nbsp;├── samples.json  
-&nbsp;&nbsp;&nbsp;&nbsp;└── static  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── js  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── app.js  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── images  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── dashboard_screenshot.png  
+&nbsp;&nbsp;&nbsp;&nbsp;├── README.md  
+&nbsp;&nbsp;&nbsp;&nbsp;└── images/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── dashboard_screenshot.png  
 
 4. Launch `index.html` in a web browser to run locally.  
 5. Optionally deploy to GitHub Pages to make it live online.
@@ -95,6 +95,13 @@ The interactive dashboard shown above displays real-time data for selected test 
 - A demographic panel showing age, gender, ethnicity, location, and washing frequency  
 
 All visualizations update instantly based on user selection, providing a clear and interactive exploration of the belly button microbiome dataset.
+
+---
+
+## **Deployment**
+
+This application is deployed via GitHub Pages and can be accessed here:  
+🔗 [Live Dashboard](https://mattguy22.github.io/belly-button-challenge/)  
 
 ---
 
