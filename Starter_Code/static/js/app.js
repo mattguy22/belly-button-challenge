@@ -99,9 +99,10 @@ function init() {
     // Use the list of sample names to populate the select options
     // Hint: Inside a loop, you will need to use d3 to append a new
     // option for each sample name.
-    sampleNames.forEach((sample) => {
+    for (let i = 0; i < sampleNames.length; i++) {
+      let sample = sampleNames[i];
       selector.append("option").text(sample).property("value", sample);
-    });
+    }
 
     // Get the first sample from the list
     let firstSample = sampleNames[0];

@@ -119,3 +119,5 @@ This project was built as part of the Module 14 Challenge. It reinforces core co
 - [Plotly.js Docs](https://plotly.com/javascript/)  
 - [Bootstrap](https://getbootstrap.com)  
 - [Starter Dataset](https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json)
+- **DU Bootcamp Module 14 & 15**: Used to help with the function build for both charts. syntax, rendering the charts, and syntax on how toFunction to run on page load.  
+- **ChatGPT**: Assisted with how to deploy the app to a free static page hosting service GitHub Pages.  
